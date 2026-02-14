@@ -2,35 +2,35 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [ElderMate – The Care Home] 🎯
+# ElderCare+ 🎯
 
 ## Basic Details
 
-### Team Name: [code catalyst]
+### Team Name: code catalyst
 
 ### Team Members
-- Member 1: [SHYNI N] - [JYOTHI ENGINEERING COLLEGE]
-- Member 2: [SIMI K R] - [JYOTHI ENGINEERING COLLEGE]
+- Member 1: SHYNI N - JYOTHI ENGINEERING COLLEGE
+- Member 2: SIMI K R - JYOTHI ENGINEERING COLLEGE
 
 ### Hosted Project Link
-[https://elderly-medicine-remainder.netlify.app/]
+https://elderly-medicine-remainder.netlify.app/
 
 ### Project Description
-[ElderMate – The Care Home is an elderly-friendly healthcare web application designed to assist senior citizens in managing their daily medications, doctor appointments, and medical records efficiently. The platform provides smart medicine reminders with voice alerts, report generation, doctor contact management, and appointment tracking through a simple and accessible interface.
-The system focuses on usability, accessibility, and healthcare discipline to support independent and stress-free living for elderly individuals.]
+ElderMate – The Care Home is an elderly-friendly healthcare web application designed to assist senior citizens in managing their daily medications, doctor appointments, and medical records efficiently. The platform provides smart medicine reminders with voice alerts, report generation, doctor contact management, and appointment tracking through a simple and accessible interface.
+The system focuses on usability, accessibility, and healthcare discipline to support independent and stress-free living for elderly individuals.
 
 ### The Problem statement
-[Many elderly individuals face difficulties in managing their daily medications and medical schedules due to memory-related challenges, complex prescription routines, and lack of organized health tracking systems.
+Many elderly individuals face difficulties in managing their daily medications and medical schedules due to memory-related challenges, complex prescription routines, and lack of organized health tracking systems.
 Common problems include:
 Missing or delaying medicine doses
 Forgetting doctor appointments
 Difficulty maintaining medical records
 Lack of quick access to doctor contact details
 Limited digital platforms designed specifically for elderly usability
-These issues can lead to serious health complications and reduced treatment effectiveness.]
+These issues can lead to serious health complications and reduced treatment effectiveness.
 
 ### The Solution
-[ElderMate provides a comprehensive and user-friendly digital solution to address these challenges.
+ElderMate provides a comprehensive and user-friendly digital solution to address these challenges.
 The system offers:
 Smart voice-based medicine reminders with both english and malayalam voice assistance and notification settings in both language later on we can add notification and voice assistance in all languages across the world
 enter and manage prescribed medicine details, including name, dosage, timing
@@ -45,7 +45,7 @@ Large fonts and simple interface designed specifically for elderly users
 upload appointment related files
 record and maintain lab test information such as test name
 logout window
-By integrating these features into a single platform, ElderMate improves medication adherence, enhances medical organization, and promotes independent healthcare management for senior citizens.]
+By integrating these features into a single platform, ElderMate improves medication adherence, enhances medical organization, and promotes independent healthcare management for senior citizens.
 
 
 ---
@@ -53,25 +53,33 @@ By integrating these features into a single platform, ElderMate improves medicat
 ## Technical Details
 
 ### Technologies/Components Used
--Languages Used:[ HTML, CSS, JavaScript]
--Frameworks Used: [None ]
--Libraries Used:[ Web Speech API, Browser Notifications API]
--Tools Used:[ Visual Studio Code (VS Code), Live Server Extension, Web Browser (Chrome/Edge)]
+-Languages Used: HTML, CSS, JavaScript
+
+-Frameworks Used: None 
+
+-Libraries Used: Web Speech API, Browser Notifications API
+
+-Tools Used: Visual Studio Code (VS Code), Live Server Extension, Web Browser (Chrome/Edge)
 
 For Hardware
--Main Components:[ Desktop/Laptop Computer or Smartphone, Internet Connection]
--Specifications: [Minimum 4GB RAM, Modern Web Browser (Chrome, Edge, or Firefox), Basic Audio Support for Voice Reminders]
--Tools Required: [Computer System, Keyboard, Mouse, Stable Internet Connection]
+-Main Components: Desktop/Laptop Computer or Smartphone, Internet Connection
+
+-Specifications: Minimum 4GB RAM, Modern Web Browser (Chrome, Edge, or Firefox), Basic Audio Support for Voice Reminders
+
+-Tools Required: Computer System, Keyboard, Mouse, Stable Internet Connection
 
 ---
 
 ## Features
 
 List the key features of your project:
-- Feature 1: [Medicine Management]
--Feature 2: [remainder notification]
--Feature 3: [AI tips]
--Feature 4:[ Appointment & Doctor Management]
+- Feature 1: Medicine Management
+- 
+-Feature 2: remainder notification
+
+-Feature 3: AI tips
+
+-Feature 4: Appointment & Doctor Management
 ---
 
 ## Implementation
@@ -115,17 +123,17 @@ open index.html       # macOS
 
 #### Screenshots (Add at least 3)
 
-![<img width="1902" height="1017" alt="Screenshot 2026-02-14 081806" src="https://github.com/user-attachments/assets/e1845fd2-04b2-4d0f-9718-01b92213720b" />
-](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+THE FRONT- the login window
+<img width="1902" height="1017" alt="Screenshot 2026-02-14 081806" src="https://github.com/user-attachments/assets/e1845fd2-04b2-4d0f-9718-01b92213720b" />
 
-![<img width="1895" height="1015" alt="Screenshot 2026-02-14 081927" src="https://github.com/user-attachments/assets/10ea62cb-6276-4e75-a0a5-79c71ee3f50d" />
-](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![<img width="1891" height="1017" alt="Screenshot 2026-02-14 082034" src="https://github.com/user-attachments/assets/24350a88-9957-4482-aa31-050828c3d6b6" />
-](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+THE DASHBOARD- with Smart voice-based medicine reminders with both english and malayalam voice assistance and notification settings in both language later on we can add notification and voice assistance in all languages across the world
+
+<img width="1895" height="1015" alt="Screenshot 2026-02-14 081927" src="https://github.com/user-attachments/assets/10ea62cb-6276-4e75-a0a5-79c71ee3f50d" />
+
+
+ADD MEDICINE COLUMN
+<img width="1891" height="1017" alt="Screenshot 2026-02-14 082034" src="https://github.com/user-attachments/assets/24350a88-9957-4482-aa31-050828c3d6b6" />
 
 #### Diagrams
 
@@ -395,11 +403,11 @@ python script.py -v --format json data.json
 ## Project Demo
 
 ### Video
-[ "C:\Users\shyni\Videos\eldercare record.mp4" ]
+[https://drive.usercontent.google.com/download?id=1GcPQQKlgmIEHmaM-JxoPujtf4_NMTpGb&export=download&authuser=0&confirm=t&uuid=9ea4a317-07c4-43ce-af87-eb40712dbe3a&at=APcXIO03-NLEgkwj8Y6dq45KJOcI:1771041894917 ]
 
 
 ### Additional Demos
-["C:\Users\shyni\Videos\demo .mp4"]
+[https://drive.usercontent.google.com/download?id=1L9Y_2hM1Cb09EaO9vz4fy2XBMPKzBVEW&export=download&authuser=0&confirm=t&uuid=2ac56b32-dd5b-4a8b-b0b2-457154f651ab&at=APcXIO0o3fEWcFEnS2Yuh7clYlZn:1771041985592]
 
 ---
 
