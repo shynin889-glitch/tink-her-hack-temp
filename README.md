@@ -73,13 +73,15 @@ For Hardware
 ## Features
 
 List the key features of your project:
+
 - Feature 1: Medicine Management
-- 
+
 -Feature 2: remainder notification
 
 -Feature 3: AI tips
 
 -Feature 4: Appointment & Doctor Management
+
 ---
 
 ## Implementation
